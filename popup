@@ -1,7 +1,7 @@
 
 					function jq_show1() {
 						
-						window.popns = 'Zomemaxpop';
+						window.popns = 'yxpop';
 						var script1 = document.createElement("script");
 						script1.type = "text/javascript";
 						script1.src = "https://o-oo.ooo/js/script.packed.js?v2824";
@@ -23,7 +23,7 @@
 
 										var script4 = document.createElement('script');
 										script4.type = 'text/javascript';
-										script4.text = 'zomemaxpop.Cookie.remove(\'zomemaxpop0\'); yXpop.add(\'https://zomemaxshrink.blogspot.com/p/go-to-url.html/', {under: false, newTab: false, width: yx_w, height: yx_h, top: yx_t, left: yx_l });'; 
+										script4.text = 'yxpop.Cookie.remove(\'yxpop0\'); yXpop.add(\'https://zomemaxshrink.blogspot.com/p/go-to-url.html/', {under: false, newTab: false, width: yx_w, height: yx_h, top: yx_t, left: yx_l });'; 
 										document.getElementsByTagName('head')[0].appendChild(script4);
 									}
 								}
